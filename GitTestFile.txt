@@ -1,1 +1,2 @@
 GitTestFile 1
+GitTestFile 2
